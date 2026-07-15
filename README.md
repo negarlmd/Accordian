@@ -6,7 +6,7 @@ A modern and responsive **FAQ Accordion** built with **HTML5**, **CSS3**, and **
 
 ## 📸 Preview
 
-![FAQ Accordion](./images/screenshot.png)
+![FAQ Accordion](./images/Screenshot.png)
 
 ---
 
