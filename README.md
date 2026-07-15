@@ -46,7 +46,7 @@ FAQ-Accordion/
 
 ## 🚀 Live Demo
 
-🔗 https://negarlmd.github.io/accordian/
+🔗 https://negarlmd.github.io/Accordian/
 
 ---
 
